@@ -65,5 +65,5 @@ place-items: center;
 
 ## Agradecimentos
 
-Agredeço a comunidade front-end mentor que analisou o meu codigo e me ajudo a consertar alguns erros de codificação. 
+Agredeço a comunidade front-end mentor que analisou o meu codigo e me ajudou a consertar alguns erros de codificação. 
 
