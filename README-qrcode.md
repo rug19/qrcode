@@ -49,7 +49,7 @@ Mobile
 
 ### O que eu aprendi
 
-Aprendi como centralizar o componente facilmente para um melhor layout utilizando o CSS grid.
+Aprendi como centralizar o componente facilmente para um melhor layout utilizando o flebox.
 
 body {
 min-height: 100vh;
