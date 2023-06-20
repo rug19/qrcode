@@ -45,7 +45,7 @@ Mobile
 
 - Marcação HTML5 
 - Propriedades personalizadas CSS
-- Grid CSS  
+- flebox 
 
 ### O que eu aprendi
 
