@@ -45,11 +45,10 @@ Mobile
 
 - Marcação HTML5 
 - Propriedades personalizadas CSS
-- flebox 
 
 ### O que eu aprendi
 
-Aprendi como centralizar o componente facilmente para um melhor layout utilizando o flebox.
+Aprendi como centralizar o componente facilmente para um melhor layout utilizando o Grid.
 
 body {
 min-height: 100vh;
