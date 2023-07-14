@@ -4,16 +4,15 @@ Esta é uma solução para o desafio do componente de código QR no Frontend Men
 
 ## Índice
 
-- Visão geral
-  - O desafio
-  - Captura de tela
-  - Links
-- Meu processo
-  - Construído com
-  - O que aprendi
-  - Recursos úteis
-- Autor
-- Agradecimentos
+- [Visão geral](#visão-geral)
+  - [O desafio](#o-desafio)
+  - [Captura de tela](#captura-de-tela)
+  - [Links](#links)
+- [Meu processo](#meu-processo)
+  - [Construído com](#construído-com)
+  - [O que eu aprendi](#o-que-eu-aprendi)
+- [Autor](#autor)
+- [Agradecimentos](#agradecimentos)
 
  ### Visão geral
 
